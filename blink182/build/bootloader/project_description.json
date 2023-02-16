@@ -1,0 +1,26 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "D:/UPBC/USER/esp-idf/components/bootloader/subproject",
+    "build_dir":          "D:/UPBC/USER/esp-idf/projects/blink182/build/bootloader",
+    "config_file":        "D:/UPBC/USER/esp-idf/projects/blink182/sdkconfig",
+    "config_defaults":    "",
+    "bootloader_elf":     "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "build_type":         "flash_app",
+    "git_revision":       "v5.1-dev-3296-g76433e4cb2",
+    "target":             "esp32c3",
+    "rev":                "",
+    "min_rev":            "3",
+    "max_rev":            "99",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "riscv32-esp-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "D:/UPBC/USER/esp-idf/components/efuse/Kconfig;D:/UPBC/USER/esp-idf/components/esp_common/Kconfig;D:/UPBC/USER/esp-idf/components/esp_hw_support/Kconfig;D:/UPBC/USER/esp-idf/components/esp_system/Kconfig;D:/UPBC/USER/esp-idf/components/freertos/Kconfig;D:/UPBC/USER/esp-idf/components/hal/Kconfig;D:/UPBC/USER/esp-idf/components/log/Kconfig;D:/UPBC/USER/esp-idf/components/newlib/Kconfig;D:/UPBC/USER/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "D:/UPBC/USER/esp-idf/components/bootloader/Kconfig.projbuild;D:/UPBC/USER/esp-idf/components/esp_app_format/Kconfig.projbuild;D:/UPBC/USER/esp-idf/components/esp_rom/Kconfig.projbuild;D:/UPBC/USER/esp-idf/components/esptool_py/Kconfig.projbuild;D:/UPBC/USER/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp_app_format", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "riscv", "soc", "spi_flash", "" ],
+    "build_component_paths" : [ "D:/UPBC/USER/esp-idf/components/bootloader", "D:/UPBC/USER/esp-idf/components/bootloader_support", "D:/UPBC/USER/esp-idf/components/efuse", "D:/UPBC/USER/esp-idf/components/esp_app_format", "D:/UPBC/USER/esp-idf/components/esp_common", "D:/UPBC/USER/esp-idf/components/esp_hw_support", "D:/UPBC/USER/esp-idf/components/esp_rom", "D:/UPBC/USER/esp-idf/components/esp_system", "D:/UPBC/USER/esp-idf/components/esptool_py", "D:/UPBC/USER/esp-idf/components/freertos", "D:/UPBC/USER/esp-idf/components/hal", "D:/UPBC/USER/esp-idf/components/log", "D:/UPBC/USER/esp-idf/components/bootloader/subproject/main", "D:/UPBC/USER/esp-idf/components/bootloader/subproject/components/micro-ecc", "D:/UPBC/USER/esp-idf/components/newlib", "D:/UPBC/USER/esp-idf/components/partition_table", "D:/UPBC/USER/esp-idf/components/riscv", "D:/UPBC/USER/esp-idf/components/soc", "D:/UPBC/USER/esp-idf/components/spi_flash", "" ],
+    "debug_prefix_map_gdbinit": ""
+}
