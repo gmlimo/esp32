@@ -5,18 +5,18 @@ cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
   "D:/UPBC/USER/esp-idf/components/bootloader/subproject"
-  "D:/UPBC/USER/esp-idf/projects/blink_led/build/bootloader"
-  "D:/UPBC/USER/esp-idf/projects/blink_led/build/bootloader-prefix"
-  "D:/UPBC/USER/esp-idf/projects/blink_led/build/bootloader-prefix/tmp"
-  "D:/UPBC/USER/esp-idf/projects/blink_led/build/bootloader-prefix/src/bootloader-stamp"
-  "D:/UPBC/USER/esp-idf/projects/blink_led/build/bootloader-prefix/src"
-  "D:/UPBC/USER/esp-idf/projects/blink_led/build/bootloader-prefix/src/bootloader-stamp"
+  "D:/UPBC/USER/esp-idf/projects/blink182/build/bootloader"
+  "D:/UPBC/USER/esp-idf/projects/blink182/build/bootloader-prefix"
+  "D:/UPBC/USER/esp-idf/projects/blink182/build/bootloader-prefix/tmp"
+  "D:/UPBC/USER/esp-idf/projects/blink182/build/bootloader-prefix/src/bootloader-stamp"
+  "D:/UPBC/USER/esp-idf/projects/blink182/build/bootloader-prefix/src"
+  "D:/UPBC/USER/esp-idf/projects/blink182/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "D:/UPBC/USER/esp-idf/projects/blink_led/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "D:/UPBC/USER/esp-idf/projects/blink182/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "D:/UPBC/USER/esp-idf/projects/blink_led/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "D:/UPBC/USER/esp-idf/projects/blink182/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()
