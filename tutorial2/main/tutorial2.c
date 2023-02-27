@@ -4,7 +4,7 @@
 #include "esp_log.h" //Logs messages
 #include "driver/gpio.h" //For use of the GPIO (General Purpose Input-Output)
 
-#define LED 9 //GPIO9 corresponds to pin 9
+#define LED 2 //GPIO9 corresponds to pin 9
 
 void app_main(void)
 {
