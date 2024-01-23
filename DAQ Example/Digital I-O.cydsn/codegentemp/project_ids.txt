@@ -1,0 +1,8 @@
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|5b2a97be-73eb-471c-9565-5b76b8cf8c14
+C:\Users\UpBc\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|b2a5dd35-95cd-4e12-b00f-f2264fdacbb0
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0ab3f2be-80d6-46db-bcf5-6d33ec8e1c88
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|94bb4128-4dd2-4835-8877-bc56a1d7aabc
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|8546b252-d063-492e-847a-7d16d85745af
+C:\Users\UpBc\Documents\PSoC Creator\DAQ Example\Design02.cydsn\Design02.cyprj|6063a148-7ca0-4ced-b032-6b78ee675584
+C:\Users\UpBc\Documents\PSoC Creator\DAQ Example\Analog Read.cydsn\Analog Read.cyprj|1f36665e-4be4-49f3-b7cd-d26eaa8aef44
+C:\Users\UpBc\Documents\PSoC Creator\DAQ Example\Digital I-O.cydsn\Digital I-O.cyprj|378a9c97-47b9-4f88-9db6-0eb8cb6a5dd5

@@ -8,7 +8,7 @@
     "app_elf":            "bootloader.elf",
     "app_bin":            "bootloader.bin",
     "build_type":         "flash_app",
-    "git_revision":       "v5.1-dev-3296-g76433e4cb2",
+    "git_revision":       "v5.1-dev-3297-g83054490db-dirty",
     "target":             "esp32c3",
     "rev":                "",
     "min_rev":            "3",
