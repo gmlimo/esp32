@@ -1,4 +1,4 @@
-C:\Users\UpBc\Documents\PSoC Creator\DAQ Example\Analog Read.cydsn\TopDesign\TopDesign.cysch
+D:\UPBC\USER\esp-idf\projects\DAQ Example\Analog Read.cydsn\TopDesign\TopDesign.cysch
 D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\UART_v2_50\UART_v2_50.cysch
 D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\UART_v2_50\UART_v2_50.cysym
 D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\UART_v2_50\UART_v2_50.pdf
@@ -143,7 +143,7 @@ D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.
 D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_constant_v1_0\version.cypatch
 D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_constant_v1_0
 D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_constant_v1_0\Custom\custom.cs
-C:\Users\UpBc\Documents\PSoC Creator\DAQ Example\Analog Read.cydsn\Analog Read.cydwr
+D:\UPBC\USER\esp-idf\projects\DAQ Example\Analog Read.cydsn\Analog Read.cydwr
 D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\cy_boot_v5_90\PSoC5\API\cm3gcc.ld
 D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\cy_boot_v5_90\PSoC5\API\Cm3RealView.scat
 D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\cy_boot_v5_90\PSoC5\API\Cm3Start.c

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Sequence1\Utilities">
+<ExpandedNodeIds>
+<v>Sequence1</v>
+<v>Sequence1\D_Solenoid</v>
+<v>Sequence1\D_Solenoid\TopDesign</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Pins</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Analog</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Clocks</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Interrupts</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\DMA</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\System</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Directives</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Flash Security</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\EEPROM</v>
+<v>Sequence1\D_Solenoid\Header Files</v>
+<v>Sequence1\D_Solenoid\Header Files\cyapicallbacks.h</v>
+<v>Sequence1\D_Solenoid\Source Files</v>
+<v>Sequence1\D_Solenoid\Source Files\main.c</v>
+<v>Sequence1\D_Solenoid\Generated_Source\PSoC5</v>
+<v>Sequence1\Utilities</v>
+<v>Sequence1\Utilities\Header Files</v>
+<v>Sequence1\Utilities\Source Files</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Sequence1</v>
+<v>Sequence1\D_Solenoid</v>
+<v>Sequence1\D_Solenoid\TopDesign</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Pins</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Analog</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Clocks</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Interrupts</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\DMA</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\System</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Directives</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\Flash Security</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.cydwr\EEPROM</v>
+<v>Sequence1\D_Solenoid\Header Files</v>
+<v>Sequence1\D_Solenoid\Header Files\cyapicallbacks.h</v>
+<v>Sequence1\D_Solenoid\Source Files</v>
+<v>Sequence1\D_Solenoid\Source Files\main.c</v>
+<v>Sequence1\D_Solenoid\Generated_Source</v>
+<v>Sequence1\Utilities</v>
+<v>Sequence1\Utilities\Header Files</v>
+<v>Sequence1\Utilities\Source Files</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Sequence1\Utilities">
+<ExpandedNodeIds>
+<v>Sequence1</v>
+<v>Sequence1\D_Solenoid\TopDesign</v>
+<v>Sequence1\D_Solenoid\TopDesign\TopDesign.cysch</v>
+<v>Sequence1\Utilities</v>
+<v>Sequence1\Utilities\Sequence1</v>
+<v>Sequence1\Utilities\Sequence1\Sequence1.cysym</v>
+<v>Sequence1\Utilities\Sequence1\Sequence1.v</v>
+<v>Sequence1\Utilities\ThreeBitCounter</v>
+<v>Sequence1\Utilities\ThreeBitCounter\ThreeBitCounter.cysym</v>
+<v>Sequence1\Utilities\ThreeBitCounter\ThreeBitCounter.v</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Sequence1</v>
+<v>Sequence1\D_Solenoid</v>
+<v>Sequence1\Utilities</v>
+<v>Sequence1\Utilities\Sequence1</v>
+<v>Sequence1\Utilities\Sequence1\Sequence1.cysym</v>
+<v>Sequence1\Utilities\Sequence1\Sequence1.v</v>
+<v>Sequence1\Utilities\ThreeBitCounter</v>
+<v>Sequence1\Utilities\ThreeBitCounter\ThreeBitCounter.cysym</v>
+<v>Sequence1\Utilities\ThreeBitCounter\ThreeBitCounter.v</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Sequence1</v>
+<v>Sequence1\D_Solenoid</v>
+<v>Sequence1\D_Solenoid\CortexM3</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\c_out.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\count_en.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\Rest_Pos.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\Rest_Sensor.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\start.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\Work_Pos.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\Listing Files\Work_Sensor.lst</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\D_Solenoid.elf</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\D_Solenoid.hex</v>
+<v>Sequence1\D_Solenoid\CortexM3\ARM_GCC_541\Debug\D_Solenoid.map</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.gpdsc</v>
+<v>Sequence1\D_Solenoid\D_Solenoid.rpt</v>
+<v>Sequence1\D_Solenoid\D_Solenoid_timing.html</v>
+<v>Sequence1\Utilities</v>
+<v>Sequence1\Utilities\CortexM3</v>
+<v>Sequence1\Utilities\CortexM3\ARM_GCC_541</v>
+<v>Sequence1\Utilities\CortexM3\ARM_GCC_541\Debug</v>
+<v>Sequence1\Utilities\CortexM3\ARM_GCC_541\Debug\Utilities.a</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Sequence1</v>
+<v>Sequence1\D_Solenoid</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Sequence1</v>
+<v>Sequence1\D_Solenoid</v>
+<v>Sequence1\D_Solenoid\PSoC 5LP Architecture TRM</v>
+<v>Sequence1\D_Solenoid\CY8C58LP Family Datasheet</v>
+<v>Sequence1\D_Solenoid\System Reference Guides</v>
+<v>Sequence1\D_Solenoid\System Reference Guides\cy_boot_v6_0</v>
+<v>Sequence1\D_Solenoid\cy_clock_v2_20.pdf</v>
+<v>Sequence1\D_Solenoid\cy_constant_v1_0.pdf</v>
+<v>Sequence1\D_Solenoid\cy_pins_v2_20</v>
+<v>Sequence1\D_Solenoid\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Sequence1\D_Solenoid\not_v1_0</v>
+<v>Sequence1\D_Solenoid\not_v1_0\not_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Sequence1</v>
+<v>Sequence1\D_Solenoid</v>
+<v>Sequence1\D_Solenoid\PSoC 5LP Architecture TRM</v>
+<v>Sequence1\D_Solenoid\CY8C58LP Family Datasheet</v>
+<v>Sequence1\D_Solenoid\System Reference Guides</v>
+<v>Sequence1\D_Solenoid\System Reference Guides\cy_boot_v6_0</v>
+<v>Sequence1\D_Solenoid\cy_clock_v2_20.pdf</v>
+<v>Sequence1\D_Solenoid\cy_constant_v1_0.pdf</v>
+<v>Sequence1\D_Solenoid\cy_pins_v2_20</v>
+<v>Sequence1\D_Solenoid\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Sequence1\D_Solenoid\not_v1_0</v>
+<v>Sequence1\D_Solenoid\not_v1_0\not_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="6c335137-fa19-46ce-bc2d-2fbeb6d5f2a2">
+<CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2 type_name="CyDesigner.Common.ProjMgmt.GUI.CyDependenciesCustomData" version="1">
+<dictName v=".\D_Solenoid.cydsn\D_Solenoid.cyprj">
+<listName />
+</dictName>
+</CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\D_Solenoid.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Utilities.cylib\Sequence1\Sequence1.cysym" />
+<name v=".\Utilities.cylib\Sequence1\Sequence1.v" />
+<name v=".\D_Solenoid.cydsn\D_Solenoid.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="900, 391" SelectedTabbedMdiWindow="6c707479-8c9c-4f4c-b938-000e3afd0db9"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="b327905b-5189-4145-aaad-adb8a1368cc0" /><DocumentWindow Key="C:\Users\UpBc\Documents\PSoC Creator\Sequence1\D_Solenoid.cydsn\TopDesign\TopDesign.cysch" Guid="6c707479-8c9c-4f4c-b938-000e3afd0db9" /><DocumentWindow Key="C:\Users\UpBc\Documents\PSoC Creator\Sequence1\Utilities.cylib\Sequence1\Sequence1.cysym" Guid="87df22c9-286f-4d75-9443-fc9ec0f66db2" /><DocumentWindow Key="C:\Users\UpBc\Documents\PSoC Creator\Sequence1\Utilities.cylib\Sequence1\Sequence1.v" Guid="ec9e15c5-523a-4fed-9bb9-ce5462e9c6fc" /><DocumentWindow Key="C:\Users\UpBc\Documents\PSoC Creator\Sequence1\D_Solenoid.cydsn\D_Solenoid.cydwr" Guid="9f1a35f2-9ce3-4153-b209-a6e9cd31ab38" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

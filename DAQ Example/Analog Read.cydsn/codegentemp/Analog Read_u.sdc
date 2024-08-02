@@ -1,3 +1,3 @@
-# Component constraints for C:\Users\UpBc\Documents\PSoC Creator\DAQ Example\Analog Read.cydsn\TopDesign\TopDesign.cysch
-# Project: C:\Users\UpBc\Documents\PSoC Creator\DAQ Example\Analog Read.cydsn\Analog Read.cyprj
-# Date: Thu, 18 Jan 2024 23:06:35 GMT
+# Component constraints for D:\UPBC\USER\esp-idf\projects\DAQ Example\Analog Read.cydsn\TopDesign\TopDesign.cysch
+# Project: D:\UPBC\USER\esp-idf\projects\DAQ Example\Analog Read.cydsn\Analog Read.cyprj
+# Date: Mon, 20 May 2024 20:45:22 GMT

@@ -3,13 +3,13 @@
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
 <CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="DAQ Example" persistent="DAQ Example.cywrk" platform="NOT_USED">
-<current_project name=".\Digital I-O.cydsn\Digital I-O.cyprj" />
+<current_project name=".\Analog Read.cydsn\Analog Read.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
 <v>.\Digital I-O.cydsn\Digital I-O.cyprj</v>
-<v>.\Design02.cydsn\Design02.cyprj</v>
 <v>.\Analog Read.cydsn\Analog Read.cyprj</v>
+<v>.\Design02.cydsn\Design02.cyprj</v>
 </projects>
 <workspace_id v="37bdd80d-6aff-4f3d-b1c8-e843b036ebdb" />
 <WriteAppVersionLastSavedWith v="4.4.0.80" />

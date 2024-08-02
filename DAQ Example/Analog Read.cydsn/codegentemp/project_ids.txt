@@ -1,8 +1,7 @@
-C:\Users\UpBc\Documents\PSoC Creator\DAQ Example\Design01.cydsn\Design01.cyprj|452306ba-6ab1-4cbf-9bc2-73e9fad491f3
-D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|9abea89f-c980-4da2-a9d3-a13392590753
-C:\Users\UpBc\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|a6f07f99-cd68-48bf-9e5d-9a4601f90e61
-D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|796d9d24-5a4e-4e56-8454-3c20edb716e8
-D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|8f74ca96-1124-410f-b069-b10eb3333d13
-D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a80fac3a-7bfd-4805-bf8d-5b018c445326
-C:\Users\UpBc\Documents\PSoC Creator\DAQ Example\Design02.cydsn\Design02.cyprj|3ad4fe6e-8d9e-4eb6-a6f0-f02b1482d37e
-C:\Users\UpBc\Documents\PSoC Creator\DAQ Example\Analog Read.cydsn\Analog Read.cyprj|f7f9b99a-1cb4-4112-89d2-0d9adcd30a91
+D:\UPBC\USER\esp-idf\projects\DAQ Example\Analog Read.cydsn\Analog Read.cyprj|bc9a8dfc-2b09-4845-b728-27275bf17bf7
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|f458f9df-9424-4454-ad2b-758ef376472c
+C:\Users\UpBc\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|f981715e-b02c-40dc-ac7c-9c8bd554cdee
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|342e08a8-0685-4d39-8da2-0ca95db4160f
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|95866343-cc6d-4840-81ef-e9796cc10bd6
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|05e8c211-d9b7-48cb-8f57-27a670d6dc77
+D:\UPBC\USER\esp-idf\projects\DAQ Example\Digital I-O.cydsn\Digital I-O.cyprj|5b51c2d0-4e5d-4d6f-b0dd-0bc493d2a122

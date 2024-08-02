@@ -1,0 +1,7 @@
+C:\Users\UpBc\Documents\PSoC Creator\Sequence1\D_Solenoid.cydsn\D_Solenoid.cyprj|44d1bfa4-c1fb-4193-bb01-307dc319afbf
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|a60abaf6-6e19-442b-806a-9d84c850d37a
+C:\Users\UpBc\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|bfb706d2-9bd7-4c65-95f4-6c4d1616be77
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|d66e5eab-a2c4-4670-ae75-465461960597
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|23c927f9-68de-41f5-b0ca-7aab75225eef
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|e9bc4b28-339b-4011-b537-91ee44cf7059
+C:\Users\UpBc\Documents\PSoC Creator\Sequence1\Utilities.cylib\Utilities.cyprj|d683ff83-99f1-45db-a9c1-7603f72e2852
